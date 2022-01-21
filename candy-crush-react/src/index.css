@@ -1,0 +1,35 @@
+.app {
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  background-image: url(./images/Candy-Crush-Wallpapers.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.game {
+  width: 500px;
+  height: 500px;
+  display: flex;
+  flex-wrap: wrap;
+  /* background-image: url(./images/back.png); */
+   background-repeat: no-repeat;
+   background-size: cover;
+   justify-content: center;
+   align-items: center;
+
+  
+}
+
+.game img {
+  width: 56px;
+  height: 53px;
+}
+
+.score-board h2 {
+  background-color: black;
+  color: white;
+  padding: 10px 30px;
+  border-radius: 5px;
+}

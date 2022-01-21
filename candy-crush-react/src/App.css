@@ -1,0 +1,29 @@
+.GameStart {
+    justify-content: center;
+    display: flex;
+   width: 98vw;
+   height: 97vh;
+   margin: 0;
+   padding: 0;
+   background-image: url(./images/bbbb.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.linkid  {
+    text-decoration: none;
+    align-items: center;
+   padding-top: 14rem;
+    
+} 
+ .linkid h2{
+    background-color: #BEF200;
+    padding: 20px;
+    display: flex;
+    text-decoration: none;
+    border-radius: 5px;
+    align-content: center;
+    color: #02AFF3;
+    font-weight: normal;
+    transition: 5s all ease-in-out;
+
+}
